@@ -1,6 +1,6 @@
 import { Nav, Navbar, Container } from "react-bootstrap";
 import { FaShoppingCart, FaUser } from "react-icons/fa";
-import logo from '../assets/img/logo-50.png';
+import logo from '../assets/logo-50.png';
 
 const Header = () => {
   return (
