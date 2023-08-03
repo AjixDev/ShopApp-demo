@@ -1,0 +1,21 @@
+{
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 80,
+    "endOfLine": "auto",
+    "jsxSingleQuote": true,
+    "jsxBracketSameLine": true,
+    "jsxTabWidth": 4,
+    "bracketSpacing": false,
+    "parser": "flow",
+    "overrides": [
+      {
+        "files": "*.css",
+        "options": {
+          "tabWidth": 2
+        }
+      }
+    ]
+  }
